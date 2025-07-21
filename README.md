@@ -30,7 +30,7 @@ Create docker-compose.yml with the content below for the services:
 
 ```sh
 # docker-compose.yml
-
+ 
 services:
   vault:
     image: hashicorp/vault:latest
