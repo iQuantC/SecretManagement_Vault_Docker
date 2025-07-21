@@ -16,6 +16,10 @@ In this project, we will build a secure system that uses HashiCorp Vault to dyna
 sudo apt update
 sudo apt install -y docker.io docker-compose unzip curl jq
 ```
+```sh
+docker -v
+docker-compose -v
+```
 
 ### Create Docker Compose File
 
